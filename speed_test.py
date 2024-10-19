@@ -11,7 +11,6 @@ def Speed_Test():
     up_speed = round(up_speed /10**6, 2)
     print ("Upload speed in mbps ::",up_speed)
     #ping test
-    
     ping = test.results.ping
     print("ping ::",ping)
 
