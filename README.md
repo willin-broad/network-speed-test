@@ -1,7 +1,3 @@
-Here’s a properly formatted version of your README:
-
----
-
 # Network Speed Test
 
 This Python script uses the `speedtest-cli` library to test your internet connection speed. It provides results for download speed, upload speed, and ping time (latency).
